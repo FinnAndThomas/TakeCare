@@ -10,4 +10,10 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="HomeLayoutName">Home</string>
+    <string name="SettingsLayoutName">Settings</string>
+    <string name="LogoutLayoutName">Log Out</string>
+    <string name="HistoricLayoutName">Historic</string>
+
 </resources>
