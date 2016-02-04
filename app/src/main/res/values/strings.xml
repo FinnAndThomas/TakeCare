@@ -16,4 +16,8 @@
     <string name="LogoutLayoutName">Log Out</string>
     <string name="HistoricLayoutName">Historic</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_root">RootActivity</string>
+
 </resources>

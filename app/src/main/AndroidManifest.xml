@@ -24,6 +24,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.takecare.thomas.takecare.MainActivity" />
         </activity>
+        <activity android:name=".MenuActivity" />
+        <activity
+            android:name=".RootActivity"
+            android:label="@string/title_activity_root"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
